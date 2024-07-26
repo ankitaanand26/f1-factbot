@@ -1,0 +1,5 @@
+sqlalchemy
+pandas
+langchain
+langchain_experimental
+langchain-google-genai
